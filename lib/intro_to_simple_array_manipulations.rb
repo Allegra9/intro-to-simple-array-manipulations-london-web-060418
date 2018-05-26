@@ -15,7 +15,7 @@ def pop_with_args(array)
   array.pop(2)  #removes last 2 items 
 end
 
-def using_unshift(array)
+def using_shift(array)
   array.shift 
 end
 
